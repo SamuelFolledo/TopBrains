@@ -28,17 +28,20 @@ Brain Training Game for iOS written in Swift that trains your brain and hand-eye
 ## App Inspiration
 <img src="https://github.com/SamuelFolledo/BrainTrainer/blob/master/static/screenshots/sampleGame.png" width="450" height="609">
 
-## Important Links
-- [Requirements](https://make-school-courses.github.io/MOB-1.1-Introduction-to-Swift/#/Assignments/FinalProject)
-- [Stroop Effect](https://en.wikipedia.org/wiki/Stroop_effect)
-- Sample Implementation: [Color Match](https://www.lumosity.com/en/brain-games/color-match/)
 
-Lincense under [MIT License](LICENSE)
+## Contributors
 
-<<<<<<< HEAD
+Contributions are welcome! Please see our [Contributing Guide](https://github.com/SamuelFolledo/BrainTeaser) for more details.
 
-=======
-### Contributor
-    -  Mohammed Drame ( iOS Developer / Student @ MakeSchool) 
-    https://github.com/mdrame
+<table>
+  <tr>
+      <td align="center"><a href="https://github.com/SamuelFolledo"><img src="https://avatars3.githubusercontent.com/u/30268383?s=460&v=4" width="75px;" alt="Tyler"/><br /><sub><b>Samuel P. Folledo</b></sub></a><br/></td>
+        <td align="center"><a href="https://github.com/mdrame"><img src="https://avatars3.githubusercontent.com/u/46610773?s=460&v=4" width="75px;" alt="Mohammed Drame (iOS Developer / Student @ MakeSchool) "/><br /><sub><b>Gary Frederick</b></sub></a><br/></td>
+    </tr>  
+</table>
 
+## 📝 License
+
+By contributing, you agree that your contributions will be licensed under its MIT License.
+
+In short, when you submit code changes, your submissions are understood to be under the same [MIT License](LICENSE) that covers the project. Feel free to contact the maintainers if that's a concern.
