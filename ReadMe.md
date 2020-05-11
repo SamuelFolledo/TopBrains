@@ -36,7 +36,7 @@ Contributions are welcome! Please see our [Contributing Guide](https://github.co
 <table>
   <tr>
       <td align="center"><a href="https://github.com/SamuelFolledo"><img src="https://avatars3.githubusercontent.com/u/30268383?s=460&v=4" width="75px;" alt=Samuel P. Folledo/><br /><sub><b>Samuel P. Folledo</b></sub></a><br/></td>
-        <td align="center"><a href="https://github.com/mdrame"><img src="https://avatars2.githubusercontent.com/u/12403216?s=400&u=9875abe868dfe18624d73555980c62e0e346e1ce&v=4" width="75px;" alt="Mohammed Drame (iOS Developer / Student @ MakeSchool) "/><br /><sub><b>Mohammed Drame (iOS Developer / Student @ MakeSchool)</b></sub></a><br/></td>
+        <td align="center"><a href="https://github.com/mdrame"><img src="https://avatars2.githubusercontent.com/u/12403216?s=400&u=9875abe868dfe18624d73555980c62e0e346e1ce&v=4" width="75px;" alt="Mohammed Drame (iOS Developer / Student @ MakeSchool) "/><br /><sub><b>Mohammed Drame</b></sub></a><br/></td>
     </tr>  
 </table>
 
