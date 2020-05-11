@@ -35,6 +35,6 @@ Brain Training Game for iOS written in Swift that trains your brain and hand-eye
 
 Lincense under [MIT License](LICENSE)
 
-## Contributor
+### Contributor
     -  Mohammed Drame ( iOS Developer / Student @ MakeSchool) 
     https://github.com/mdrame
