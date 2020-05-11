@@ -8,10 +8,6 @@
 
 import UIKit
 
-enum GameState {
-    case title, playing, paused, gameOver
-}
-
 class GameVC: UIViewController {
 //MARK: Properties
     var gameState: GameState? {
