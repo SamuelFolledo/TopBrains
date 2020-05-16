@@ -26,6 +26,16 @@
 		3311931B2469F3D500328FFE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 331192FE2469EEB900328FFE /* Main.storyboard */; };
 		3311931D2469F50300328FFE /* GameState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3311931C2469F50300328FFE /* GameState.swift */; };
 		331193202469F9DB00328FFE /* ReadMe.md in Resources */ = {isa = PBXBuildFile; fileRef = 3311931F2469F9DB00328FFE /* ReadMe.md */; };
+		33363598246F780100925680 /* Service.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33363595246F780000925680 /* Service.swift */; };
+		33363599246F780100925680 /* SettingsService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33363596246F780000925680 /* SettingsService.swift */; };
+		3336359A246F780100925680 /* PersistenceLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33363597246F780100925680 /* PersistenceLayer.swift */; };
+		333635A2246F782400925680 /* UIStackView+extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3336359B246F782300925680 /* UIStackView+extensions.swift */; };
+		333635A3246F782400925680 /* UIView+extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3336359C246F782300925680 /* UIView+extensions.swift */; };
+		333635A4246F782400925680 /* UIScrollView+extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3336359D246F782300925680 /* UIScrollView+extensions.swift */; };
+		333635A5246F782400925680 /* UILayoutGuide+extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3336359E246F782400925680 /* UILayoutGuide+extensions.swift */; };
+		333635A6246F782400925680 /* NSObject+extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3336359F246F782400925680 /* NSObject+extensions.swift */; };
+		333635A7246F782400925680 /* UIViewController+extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 333635A0246F782400925680 /* UIViewController+extensions.swift */; };
+		333635A8246F782400925680 /* UINavigationController+extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 333635A1246F782400925680 /* UINavigationController+extensions.swift */; };
 		33E33B5624679AFB009232A5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33E33B5524679AFB009232A5 /* AppDelegate.swift */; };
 		33E33B5824679AFB009232A5 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33E33B5724679AFB009232A5 /* SceneDelegate.swift */; };
 		33E33B5F24679AFE009232A5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 33E33B5E24679AFE009232A5 /* Assets.xcassets */; };
@@ -51,6 +61,16 @@
 		331193122469EEF200328FFE /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3311931C2469F50300328FFE /* GameState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameState.swift; sourceTree = "<group>"; };
 		3311931F2469F9DB00328FFE /* ReadMe.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = ReadMe.md; path = ../../ReadMe.md; sourceTree = "<group>"; };
+		33363595246F780000925680 /* Service.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Service.swift; sourceTree = "<group>"; };
+		33363596246F780000925680 /* SettingsService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsService.swift; sourceTree = "<group>"; };
+		33363597246F780100925680 /* PersistenceLayer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PersistenceLayer.swift; sourceTree = "<group>"; };
+		3336359B246F782300925680 /* UIStackView+extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIStackView+extensions.swift"; sourceTree = "<group>"; };
+		3336359C246F782300925680 /* UIView+extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "UIView+extensions.swift"; path = "../../../../../../MakeSchool/Term3/MOB1.2/MobileClasswork/MobileClasswork/Helper/Extensions/UIView+extensions.swift"; sourceTree = "<group>"; };
+		3336359D246F782300925680 /* UIScrollView+extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIScrollView+extensions.swift"; sourceTree = "<group>"; };
+		3336359E246F782400925680 /* UILayoutGuide+extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UILayoutGuide+extensions.swift"; sourceTree = "<group>"; };
+		3336359F246F782400925680 /* NSObject+extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "NSObject+extensions.swift"; sourceTree = "<group>"; };
+		333635A0246F782400925680 /* UIViewController+extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIViewController+extensions.swift"; sourceTree = "<group>"; };
+		333635A1246F782400925680 /* UINavigationController+extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UINavigationController+extensions.swift"; sourceTree = "<group>"; };
 		33E33B5224679AFB009232A5 /* BrainTeaser.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BrainTeaser.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		33E33B5524679AFB009232A5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		33E33B5724679AFB009232A5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -73,21 +93,31 @@
 			isa = PBXGroup;
 			children = (
 				331192E52469EEB900328FFE /* Constants.swift */,
-				331192E62469EEB900328FFE /* extensions */,
+				33363597246F780100925680 /* PersistenceLayer.swift */,
+				33363595246F780000925680 /* Service.swift */,
+				33363596246F780000925680 /* SettingsService.swift */,
+				331192E62469EEB900328FFE /* Extensions */,
 			);
 			path = Helper;
 			sourceTree = "<group>";
 		};
-		331192E62469EEB900328FFE /* extensions */ = {
+		331192E62469EEB900328FFE /* Extensions */ = {
 			isa = PBXGroup;
 			children = (
+				3336359F246F782400925680 /* NSObject+extensions.swift */,
+				3336359E246F782400925680 /* UILayoutGuide+extensions.swift */,
+				333635A1246F782400925680 /* UINavigationController+extensions.swift */,
+				3336359D246F782300925680 /* UIScrollView+extensions.swift */,
+				3336359B246F782300925680 /* UIStackView+extensions.swift */,
+				3336359C246F782300925680 /* UIView+extensions.swift */,
+				333635A0246F782400925680 /* UIViewController+extensions.swift */,
 				331192E72469EEB900328FFE /* UIImageView+extensions.swift */,
 				331192E82469EEB900328FFE /* UIButton+extensions.swift */,
 				331192E92469EEB900328FFE /* UIView+extensions.swift */,
 				331192EA2469EEB900328FFE /* String+extensions.swift */,
 				331192EB2469EEB900328FFE /* CATransition+extensions.swift */,
 			);
-			path = extensions;
+			path = Extensions;
 			sourceTree = "<group>";
 		};
 		331192EC2469EEB900328FFE /* Controller */ = {
@@ -161,9 +191,9 @@
 				33E33B5724679AFB009232A5 /* SceneDelegate.swift */,
 				331192FE2469EEB900328FFE /* Main.storyboard */,
 				331192EC2469EEB900328FFE /* Controller */,
-				331192E42469EEB900328FFE /* Helper */,
 				331192EF2469EEB900328FFE /* Model */,
 				331192F32469EEB900328FFE /* View */,
+				331192E42469EEB900328FFE /* Helper */,
 				33E33B5E24679AFE009232A5 /* Assets.xcassets */,
 				33E33B6324679AFE009232A5 /* Info.plist */,
 				331193122469EEF200328FFE /* LaunchScreen.storyboard */,
@@ -245,6 +275,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				333635A3246F782400925680 /* UIView+extensions.swift in Sources */,
+				33363599246F780100925680 /* SettingsService.swift in Sources */,
+				333635A2246F782400925680 /* UIStackView+extensions.swift in Sources */,
+				3336359A246F780100925680 /* PersistenceLayer.swift in Sources */,
 				3311930B2469EEB900328FFE /* TutorialView.swift in Sources */,
 				331193072469EEB900328FFE /* CardColor.swift in Sources */,
 				331193022469EEB900328FFE /* UIView+extensions.swift in Sources */,
@@ -253,14 +287,20 @@
 				3311931D2469F50300328FFE /* GameState.swift in Sources */,
 				331193042469EEB900328FFE /* CATransition+extensions.swift in Sources */,
 				331193092469EEB900328FFE /* Color.swift in Sources */,
+				333635A5246F782400925680 /* UILayoutGuide+extensions.swift in Sources */,
 				331193082469EEB900328FFE /* GameDifficulty.swift in Sources */,
 				331193012469EEB900328FFE /* UIButton+extensions.swift in Sources */,
+				333635A8246F782400925680 /* UINavigationController+extensions.swift in Sources */,
+				333635A7246F782400925680 /* UIViewController+extensions.swift in Sources */,
 				33E33B5624679AFB009232A5 /* AppDelegate.swift in Sources */,
+				333635A4246F782400925680 /* UIScrollView+extensions.swift in Sources */,
+				33363598246F780100925680 /* Service.swift in Sources */,
 				33E33B5824679AFB009232A5 /* SceneDelegate.swift in Sources */,
 				331193002469EEB900328FFE /* UIImageView+extensions.swift in Sources */,
 				331193052469EEB900328FFE /* GameVC.swift in Sources */,
 				331192FF2469EEB900328FFE /* Constants.swift in Sources */,
 				331193062469EEB900328FFE /* MenuVC.swift in Sources */,
+				333635A6246F782400925680 /* NSObject+extensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
