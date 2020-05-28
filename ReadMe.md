@@ -31,7 +31,7 @@ Brain Training Game for iOS written in Swift that trains your brain and hand-eye
 
 ## Contributors
 
-Contributions are welcome! Please see our [Contributing Guide](https://github.com/SamuelFolledo/BrainTeaser) for more details.
+Contributions are welcome! Please see our [Contributing Guide](https://github.com/SamuelFolledo/TopBrains) for more details.
 
 <table>
   <tr>
