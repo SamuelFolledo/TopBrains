@@ -171,7 +171,7 @@
 			isa = PBXGroup;
 			children = (
 				3311931F2469F9DB00328FFE /* ReadMe.md */,
-				33E33B5424679AFB009232A5 /* BrainTeaser */,
+				33E33B5424679AFB009232A5 /* TopBrains */,
 				33E33B5324679AFB009232A5 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -184,7 +184,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		33E33B5424679AFB009232A5 /* BrainTeaser */ = {
+		33E33B5424679AFB009232A5 /* TopBrains */ = {
 			isa = PBXGroup;
 			children = (
 				33E33B5524679AFB009232A5 /* AppDelegate.swift */,
@@ -198,15 +198,15 @@
 				33E33B6324679AFE009232A5 /* Info.plist */,
 				331193122469EEF200328FFE /* LaunchScreen.storyboard */,
 			);
-			path = BrainTeaser;
+			path = TopBrains;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		33E33B5124679AFB009232A5 /* BrainTeaser */ = {
+		33E33B5124679AFB009232A5 /* TopBrains */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 33E33B6624679AFE009232A5 /* Build configuration list for PBXNativeTarget "BrainTeaser" */;
+			buildConfigurationList = 33E33B6624679AFE009232A5 /* Build configuration list for PBXNativeTarget "TopBrains" */;
 			buildPhases = (
 				33E33B4E24679AFB009232A5 /* Sources */,
 				33E33B4F24679AFB009232A5 /* Frameworks */,
@@ -216,7 +216,7 @@
 			);
 			dependencies = (
 			);
-			name = BrainTeaser;
+			name = TopBrains;
 			productName = BrainTeaser;
 			productReference = 33E33B5224679AFB009232A5 /* Top Brains.app */;
 			productType = "com.apple.product-type.application";
@@ -236,7 +236,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 33E33B4D24679AFB009232A5 /* Build configuration list for PBXProject "BrainTeaser" */;
+			buildConfigurationList = 33E33B4D24679AFB009232A5 /* Build configuration list for PBXProject "TopBrains" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -249,7 +249,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				33E33B5124679AFB009232A5 /* BrainTeaser */,
+				33E33B5124679AFB009232A5 /* TopBrains */,
 			);
 		};
 /* End PBXProject section */
@@ -427,7 +427,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 9NY68F4K3P;
-				INFOPLIST_FILE = BrainTeaser/Info.plist;
+				INFOPLIST_FILE = TopBrains/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -445,7 +445,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 9NY68F4K3P;
-				INFOPLIST_FILE = BrainTeaser/Info.plist;
+				INFOPLIST_FILE = TopBrains/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -460,7 +460,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		33E33B4D24679AFB009232A5 /* Build configuration list for PBXProject "BrainTeaser" */ = {
+		33E33B4D24679AFB009232A5 /* Build configuration list for PBXProject "TopBrains" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				33E33B6424679AFE009232A5 /* Debug */,
@@ -469,7 +469,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		33E33B6624679AFE009232A5 /* Build configuration list for PBXNativeTarget "BrainTeaser" */ = {
+		33E33B6624679AFE009232A5 /* Build configuration list for PBXNativeTarget "TopBrains" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				33E33B6724679AFE009232A5 /* Debug */,
