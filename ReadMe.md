@@ -1,5 +1,5 @@
-# Brain Trainer
-Brain Training Game for iOS written in Swift that trains your brain and hand-eye coordination as my Final Project for my Mobile Development 1.1 course in Make School. It follows best practices in Model View Controller pattern to avoid massive view controllers. Separation of concerns, using __enumaration__ to keep track of game's current state and difficulty, __[protocols](https://docs.swift.org/swift-book/LanguageGuide/Protocols.html)__ like [CaseIterable](https://www.hackingwithswift.com/example-code/language/how-to-list-all-cases-in-an-enum-using-caseiterable) be able to use allCases method to select a random case for Color, [String](https://swiftdoc.org/v4.2/protocol/stringprotocol/) for case's rawValue, and some custom protocols
+# Top Brains
+An iOS game written in Swift that trains your brain and hand-eye coordination as my final project for my Mobile Development 1.1 course in Make School. It follows best practices in Model View Controller pattern to avoid massive view controllers. Separation of concerns, using __enumaration__ to keep track of game's current state and difficulty, __[protocols](https://docs.swift.org/swift-book/LanguageGuide/Protocols.html)__ like [CaseIterable](https://www.hackingwithswift.com/example-code/language/how-to-list-all-cases-in-an-enum-using-caseiterable) be able to use allCases method to select a random case for Color, [String](https://swiftdoc.org/v4.2/protocol/stringprotocol/) for case's rawValue, and some custom protocols
 
 ## Features
 - Different game difficulties
