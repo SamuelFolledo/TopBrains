@@ -7,6 +7,9 @@ An iOS game written in Swift that trains your brain and hand-eye coordination as
 - Basic animations
 - Transition animations
 
+## UI
+<img src="UI/one.png" width="200" height="300">
+
 ## Game Play
 ### MenuVC: User can select from 3 difficulties:
 - Easy: White Cards
