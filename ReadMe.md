@@ -8,7 +8,7 @@ An iOS game written in Swift that trains your brain and hand-eye coordination as
 - Transition animations
 
 ## UI
-<img src="UI/one.png" width="200" height="300">
+<img src="UI/one.png" width="200" height="350"> <img src="UI/two.png" width="200" height="350"> <img src="UI/three.png" width="200" height="350"> <img src="UI/four.png" width="200" height="350">
 
 ## Game Play
 ### MenuVC: User can select from 3 difficulties:
